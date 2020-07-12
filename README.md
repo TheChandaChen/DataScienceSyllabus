@@ -1,6 +1,6 @@
 # Data Science Syllabus
 
-This repository is to showcase courses that my friend, [Cynthia](https://github.com/cynthziawong), and I have taken to begin our path in Data Science. 
+This repository is to showcase courses that [Chanda](https://github.com/TheChandaChen) and [Cynthia](https://github.com/cynthziawong) have taken to begin our path in Data Science. 
 
 We have compiled a list of online courses that provides afforadable education on various topics. Some courses provide capstone projects and while the project 
 is important to understand everything that we have learned, we also look for side projects to help reinforce our education.
